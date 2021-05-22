@@ -1,0 +1,41 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.nav a{
+    color:white;
+    margin-left:1rem;
+}
+
+.main-items {
+    list-style-type: disc !important;
+    padding-left: 1em !important;
+    margin-left: 1em;
+  }
+
+
+.btn-hakkimizda{
+   font-size: 18px;
+   background-color: tomato;
+   padding: 0.5rem;
+   color: white;
+   border-radius: 5px;
+}  
+.alt-baslik{
+    color: red;
+}
+
+.btn{
+    padding: 0.05rem 0.05rem;
+    font-size: 12px;
+}
+
+.card-img-top {
+    height: 25rem;
+    object-fit:contain;
+}
+
+.h-card{
+    background-color: transparent;
+    border: none;
+}
